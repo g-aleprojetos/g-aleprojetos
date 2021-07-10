@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apig-aleprojetosanuraghazra&show_icons=true&theme=radical)
+<div>
+  <a href="https://github.com/g-aleprojetos">
+    <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api?username=danielfarah54&hide=stars&count_private=true&show_icons=true&theme=gotham&include_all_commits=true"/>
+    <img align="center" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfarah54&layout=compact&theme=gotham&langs_count=16"/>
+</div><br>
 
 
 <!--
