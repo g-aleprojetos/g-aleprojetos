@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apig-aleprojetosanuraghazra&show_icons=true&theme=radical)
+
+
 <!--
 **g-aleprojetos/g-aleprojetos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
