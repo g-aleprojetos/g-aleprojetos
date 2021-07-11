@@ -1,4 +1,7 @@
-### Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, eu sou Alexandre
+
+  <img src="img/photo.jpg" alt="Desktop" title="Desktop"  />
+
+### Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Alexandre, welcome to my portfolio.
 
 
 
