@@ -13,7 +13,7 @@
 
 <!--<p align="right"><font size="400"><b>GitHub</b></font></p>&nbsp&nbsp&#013-->
 
-<img align="right" src="img/github.png" alt="Desktop" title="Desktop" width="400" />
+<img align="right" src="img/github.png" alt="Desktop" title="Desktop" width="350" />
    
 
 <h3 align="left">Frontend Development</h3>
