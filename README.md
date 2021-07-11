@@ -11,9 +11,9 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp&nbsp </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p align="right"  ><font size="200"><b>GitHub&nbsp&nbsp</b></font></p>&#013
+<!--<p align="right"><font size="400"><b>GitHub</b></font></p>&nbsp&nbsp&#013-->
 
-<img align="right" src="img/github.png" alt="Desktop" title="Desktop" width="200" />
+<img align="right" src="img/github.png" alt="Desktop" title="Desktop" width="400" />
    
 
 <h3 align="left">Frontend Development</h3>
